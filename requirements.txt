@@ -148,4 +148,3 @@ webencodings==0.5.1
 Werkzeug==2.2.2
 widgetsnbextension==3.6.1
 wrapt==1.14.1
-wxPython==4.1.1
